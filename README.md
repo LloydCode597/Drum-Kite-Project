@@ -1,1 +1,2 @@
-# Drum-Kite-Project
+# JavaScript Drum-Kite-Project
+
