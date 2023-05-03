@@ -1,9 +1,9 @@
 # JavaScript Drum-Kite-Project
 
-There are a number of keys here that represent different drums in a typical drum set.
+Below is a series of keys representing the various drums in a typical drum kit.
 
-And when you click on any of these buttons then you'll get the corresponding sound of the drum.
+Click any of these buttons to get the corresponding drum sound.
 
-And in addition you can also use the keys on the keyboard.
+Additionally, you can use the keys on your keyboard.
 
-I also added a random beat function to make it more interesting.
+To make it even more interesting, we also added a random beat feature. 
