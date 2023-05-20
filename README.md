@@ -1,9 +1,16 @@
 # JavaScript Drum-Kite-Project
 
-Below is a series of keys representing the various drums in a typical drum kit.
+A virtual drum kit that allows users to play various drum sounds by pressing corresponding keys on the keyboard or by clicking the drum pads on the screen.
 
-Click any of these buttons to get the corresponding drum sound.
+## Technologies Used
 
-Additionally, you can use the keys on your keyboard.
+- HTML
+- CSS
+- JavaScript
 
-To make it even more interesting, we also added a random beat feature. 
+## Features
+
+- Interactive drum pads that respond to keyboard input and mouse clicks
+- Each drum pad produces a unique drum sound when triggered
+- Visual feedback when drum pads are activated
+- Easy-to-use and intuitive user interface
